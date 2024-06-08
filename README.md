@@ -38,13 +38,13 @@
 - 딥러닝 모델을 앱 자체에서 처리하는 온디바이스로 구현
 - 부가기능(추가 정보 제공) on/off 선택 가능
 
-(1)
+**(1)**
 ![image](https://github.com/KJirung/Smart_QR_Scanner/assets/142071404/7c2a8525-64ce-4045-8d54-e31a6e6b22ce)
 
-(2)
+**(2)**
 ![image](https://github.com/KJirung/Smart_QR_Scanner/assets/142071404/d3c11614-09c9-4b4e-953e-a1e8c84f3dfd)
 
-(1)은 시스템의 전체적인 흐름도, (2)는 부가기능에 대한 설명
+**(1)**은 시스템의 전체적인 흐름도, **(2)**는 부가기능에 대한 설명
 
 
 
